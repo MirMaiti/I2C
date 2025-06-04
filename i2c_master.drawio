@@ -300,16 +300,6 @@
         <mxCell id="VUbeCjVTyL7We-Jl0k7P-89" value="STOP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="755" y="1670" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VUbeCjVTyL7We-Jl0k7P-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VUbeCjVTyL7We-Jl0k7P-90">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="110" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="750" y="1790" />
-              <mxPoint x="1060" y="1790" />
-              <mxPoint x="1060" y="39" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VUbeCjVTyL7We-Jl0k7P-90" value="scl = 1&#39;b1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1700" width="120" height="50" as="geometry" />
         </mxCell>
